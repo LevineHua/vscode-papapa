@@ -2,7 +2,7 @@
   "name": "papapa",
   "displayName": "papapa",
   "description": "腱鞘炎等级统计器",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "LevineHua",
   "engines": {
     "vscode": "^1.69.0"
